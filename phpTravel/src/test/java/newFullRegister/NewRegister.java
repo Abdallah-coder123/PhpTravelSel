@@ -33,7 +33,7 @@ public class NewRegister {
 			}else {
 				System.out.print("Test Fail");
 				System.out.print("Test Fail");
-				System.out.print("Test Fail");
+				System.out.print("Testf");
 			}
 		
   }
