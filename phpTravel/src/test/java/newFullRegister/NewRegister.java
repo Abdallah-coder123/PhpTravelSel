@@ -32,6 +32,7 @@ public class NewRegister {
 				System.out.print("Pass");
 			}else {
 				System.out.print("Test Fail");
+				System.out.print("Test Fail");
 			}
 		
   }
@@ -49,6 +50,11 @@ public class NewRegister {
   public void TearDownDriver() {
 	 
 		driver.close();	
+		{}
+		{}
+		{}
+		{}
+		
 		
   }
 
